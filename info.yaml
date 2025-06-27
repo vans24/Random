@@ -4,7 +4,7 @@ project:
   title:        "Random"   # Random
   author:       "vans24"      # vans24
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "I have no idea."      # I have no idea.
+  description:  "I have no idea. "      # I have no idea.
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
